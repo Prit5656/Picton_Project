@@ -1,4 +1,4 @@
-# Picton - Playwright Test Automation Project
+# Playwright Test Automation Project
 
 A Playwright-based end-to-end testing framework for the SauceDemo e-commerce website. This project implements the Page Object Model (POM) pattern to create maintainable and scalable test automation.
 
